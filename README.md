@@ -8,7 +8,7 @@ WRITTING AIs for LF2 is just FUN!
 ddwrapper.sln is the solution file that contains all projects.  
 To build this dll, you'll need Windows SDK. The targetted Windows SDK version is 10.0.16299.0, using build tools v141.
   
-If you just need the DLLs (binaries) to develop your AIs, don't bother compiling or even looking at the sources.  
+If you just need the DLLs (binaries) to develop your AIs or even just to play with custom AIs, don't bother compiling or even looking at the sources.  
 Instead, use these links:  
 Debug (fit if you want to write AIs)  
 https://github.com/seikosantana/lf2-ai-scriptengine/raw/master/Debug/ddraw.dll  
